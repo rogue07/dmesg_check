@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # ram
-# rpersaud@tdsclinical.com
 # ver=0.1
 
 # jul 5, 2020 / 20:25
