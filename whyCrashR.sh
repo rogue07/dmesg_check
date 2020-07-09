@@ -13,7 +13,7 @@ while true; do
 	echo "# Why did I crash? #"
 	echo "####################"
 	echo
-#        echo "k. Check kdump: "	
+        echo "k. Check kdump: "	
 	echo "e. Check dmesg EMERGENCY: "
 	echo "a. Check dmesg ALERT: "
 	echo "c. Check dmesg CRITICAL: "
